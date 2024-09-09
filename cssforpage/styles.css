@@ -31,11 +31,11 @@ h1 {
 
 .topright {
  position: absolute;
- top: 8px;
+ top: 20px;
  right: 50px;
- font-size: 12px;
+ font-size: 13px;
  font-family: sans-serif;
- letter-spacing: 0,5px;
+ word-spacing: 13px;
  margin-top: 2px;
 
 
@@ -43,11 +43,11 @@ h1 {
 
 .topright2 {
     position: absolute;
-    top: 8px;
+    top: 20px;
     right: 16px;
-    font-size: 12px;
+    font-size: 13px;
     font-family: sans-serif;
-    letter-spacing: 0,5px;
+    
     
    
    }
@@ -59,10 +59,56 @@ a {
 
 .topleft {
     position: absolute;
-    top: 8px;
+    top: 20px;
     left: 16px;
-    font-size: 12px;
+    font-size: 13px;
     font-family: sans-serif;
-    letter-spacing: 0,5px;
+    word-spacing: 13px;
 
 }
+
+.topnav {
+    position: absolute;
+    top: 380px;
+    left: 790px;
+    border-radius: 15px ;
+    outline-style: solid;
+    outline-color: grey;
+    background-color: gray;
+    padding: 10px;
+    width: 350px;
+    height: 20px;
+    
+}
+
+.magnifyingglass {
+    position: absolute;
+    top: 380px;
+    left: 790px;
+    mix-blend-mode: multiply ;
+}
+
+.keyboard {
+
+    position: absolute;
+    top: 380px;
+    left: 1050px;
+    mix-blend-mode: multiply;
+   
+}
+.microphone {
+    position: absolute;
+    top: 380px;
+    left: 1095px;
+    mix-blend-mode: multiply;
+}
+
+.camera {
+    position: absolute;
+    top: 380px;
+    left: 1110px;
+    mix-blend-mode: multiply;
+
+}
+
+
