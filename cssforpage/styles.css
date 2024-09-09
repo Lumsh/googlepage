@@ -1,0 +1,68 @@
+
+
+*{
+    box-sizing: border-box;
+}
+ 
+body {
+
+    background-color: rgb(48, 46, 46);
+}
+
+h1 { 
+
+    color: white;
+    text-align: center;
+}
+
+.center {
+
+    display: block;
+    margin-top: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
+    
+     
+    
+}
+
+.topright {
+ position: absolute;
+ top: 8px;
+ right: 50px;
+ font-size: 12px;
+ font-family: sans-serif;
+ letter-spacing: 0,5px;
+ margin-top: 2px;
+
+
+}
+
+.topright2 {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 12px;
+    font-family: sans-serif;
+    letter-spacing: 0,5px;
+    
+   
+   }
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 12px;
+    font-family: sans-serif;
+    letter-spacing: 0,5px;
+
+}
